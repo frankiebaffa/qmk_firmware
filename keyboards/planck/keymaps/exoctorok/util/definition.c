@@ -41,3 +41,4 @@
 #define WIN_BL LCTL(LALT(KC_J))
 #define WIN_BR LCTL(LALT(KC_K))
 #define WIN_MX LCTL(LALT(KC_ENT))
+#define KC0_FLY LT(_L6, KC_0)
