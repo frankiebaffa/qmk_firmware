@@ -24,7 +24,8 @@ enum planck_layers {
     L2,
     L3,
     L4,
-    L5
+    L5,
+    L6
 };
 
 enum planck_keycodes {
@@ -32,7 +33,8 @@ enum planck_keycodes {
     _L2,
     _L3,
     _L4,
-    _L5
+    _L5,
+    _L6,
 };
 
 #include "util/definition.c"
